@@ -1,52 +1,51 @@
-[
- {
-   "Index": 0,
-   "title": "Beginner Dose",
-   "h1": "THC per dose",
-   "text1": "1.0 - 2.5 mg",
-   "h2": "What to expect?",
-   "text2": "Mild pain relief ⋅ Stress ⋅ Anxiety ⋅ Other symptoms",
-   "h3": "Who is it for?",
-   "text3": "◦ First-time consumers\n◦ Microdosers"
- },
- {
-   "Index": 1,
-   "title": "Small Dose",
-   "h1": "THC per dose",
-   "text1": "2.5 - 15 mg",
-   "h2": "What to expect?",
-   "text2": "Stronger symptom relief ⋅ Euphoria ⋅ May impair coordination and alter perception",
-   "h3": "Who is it for?",
-   "text3": "◦ Patients with persistent problems\n◦ Restless sleepers\n◦ Social butterflies"
- },
- {
-   "Index": 2,
-   "title": "Moderate Dose",
-   "h1": "THC per dose",
-   "text1": "15 - 30 mg",
-   "h2": "What to expect?",
-   "text2": "Strong euphoria ⋅ Unaccustomed consumers may experience negative effects ⋅ May impair coordination and alter perception",
-   "h3": "Who is it for?",
-   "text3": "◦ Well-seasoned consumers\n◦ Medical patients with developed tolerances\n◦ Experienced consumers seeking to sustain sleep"
- },
- {
-   "Index": 3,
-   "title": "High Dose",
-   "h1": "THC per dose",
-   "text1": "30 - 50 mg",
-   "h2": "What to expect?",
-   "text2": "Very strong euphoria ⋅ Likely to impair coordination and alter perception",
-   "h3": "Who is it for?",
-   "text3": "◦ Customers who have poor GI absorption of cannabinoids\n◦ People with significant tolerance to THC"
- },
- {
-   "Index": 4,
-   "title": "Experienced User Dose",
-   "h1": "THC per dose",
-   "text1": "50 - 100 mg",
-   "h2": "What to expect?",
-   "text2": "Highly likely to impair coordination and alter perception ⋅ Can cause negative side effects such as rapid heart rate and nausea ⋅ May cause user perceived pain",
-   "h3": "Who is it for?",
-   "text3": "◦ For experienced THC individuals only\n◦ Patients with cancer, inflammatory disorders, or conditions that necessitate high doses"
- }
+[{
+        "Index": 0,
+        "title": "Beginner Dose",
+        "h1": "THC per dose",
+        "text1": "1.0 - 2.5 mg",
+        "h2": "What to expect?",
+        "text2": "Mild pain relief ⋅ Stress ⋅ Anxiety ⋅ Other symptoms",
+        "h3": "Who is it for?",
+        "text3": "◦ First-time consumers\n◦ Microdosers"
+    },
+    {
+        "Index": 1,
+        "title": "Small Dose",
+        "h1": "THC per dose",
+        "text1": "2.5 - 15 mg",
+        "h2": "What to expect?",
+        "text2": "Stronger symptom relief ⋅ Euphoria ⋅ May impair coordination and alter perception",
+        "h3": "Who is it for?",
+        "text3": "◦ Patients with persistent problems\n◦ Restless sleepers\n◦ Social butterflies"
+    },
+    {
+        "Index": 2,
+        "title": "Moderate Dose",
+        "h1": "THC per dose",
+        "text1": "15 - 30 mg",
+        "h2": "What to expect?",
+        "text2": "Strong euphoria ⋅ Unaccustomed consumers may experience negative effects ⋅ May impair coordination and alter perception",
+        "h3": "Who is it for?",
+        "text3": "◦ Well-seasoned consumers\n◦ Medical patients with developed tolerances\n◦ Experienced consumers seeking to sustain sleep"
+    },
+    {
+        "Index": 3,
+        "title": "High Dose",
+        "h1": "THC per dose",
+        "text1": "30 - 50 mg",
+        "h2": "What to expect?",
+        "text2": "Very strong euphoria ⋅ Likely to impair coordination and alter perception",
+        "h3": "Who is it for?",
+        "text3": "◦ Customers who have poor GI absorption of cannabinoids\n◦ People with significant tolerance to THC"
+    },
+    {
+        "Index": 4,
+        "title": "Experienced User Dose",
+        "h1": "THC per dose",
+        "text1": "50 - 100 mg",
+        "h2": "What to expect?",
+        "text2": "Highly likely to impair coordination and alter perception ⋅ Can cause negative side effects such as rapid heart rate and nausea ⋅ May cause user perceived pain",
+        "h3": "Who is it for?",
+        "text3": "◦ For experienced THC individuals only\n◦ Patients with cancer, inflammatory disorders, or conditions that necessitate high doses"
+    }
 ]
